@@ -35,7 +35,7 @@ class Piyush extends Developer {
     String name = "Piyush Raj";
 
     String education =
-        "B.Tech in Computer Science and Engineering, NIT Patna";
+        "B.Tech in Computer Science and Engineering, LNJPIT Chapra";
 
     List<String> interests = List.of(
         "Backend Development",
@@ -43,6 +43,10 @@ class Piyush extends Developer {
         "System Design",
         "Cloud & Azure",
         "Data Engineering"
+    );
+  List<String> hobbies = List.of(
+        "Gaming",
+        "Travelling"
     );
 }
 ```
