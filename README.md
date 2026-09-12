@@ -23,3 +23,26 @@
     <img src="https://img.icons8.com/color/96/twitter--v1.png" width="55" alt="X"/>
   </a>
 </p>
+
+
+## 👨‍💻 A Little Bit About Me and My Interests
+
+```java
+import java.util.List;
+
+class Piyush extends Developer {
+
+    String name = "Piyush Raj";
+
+    String education =
+        "B.Tech in Computer Science and Engineering, NIT Patna";
+
+    List<String> interests = List.of(
+        "Backend Development",
+        "Machine Learning",
+        "System Design",
+        "Cloud & Azure",
+        "Data Engineering"
+    );
+}
+```
