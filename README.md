@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sanjeet4567/Sanjeet4567/main/purple-blob.png" width="300">
+<img src="https://raw.githubusercontent.com/piyushx64/piyushx64/main/purple-blob.png" width="300">
 
 <h1>Hey Everyone! 😊</h1>
 
