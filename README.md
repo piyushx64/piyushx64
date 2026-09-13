@@ -52,7 +52,9 @@ class Piyush extends Developer {
 }
 ```
 
-<h2 align="center">🚀 Some Tools I Have Used and Learned</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Some+Tools+I+Have+Used+and+Learned&center=true&width=700&height=60&size=28&color=FFFFFF&background=00000000&duration=3500&pause=1500" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,react,html,css,bootstrap,tailwind,nodejs,express,mongodb,mysql,docker,kubernetes,aws,azure,git,github,linux,figma,spring,numpy,pandas,sklearn,tensorflow,opencv,jupyter&theme=dark&perline=12" />
