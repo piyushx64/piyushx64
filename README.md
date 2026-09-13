@@ -51,3 +51,13 @@ class Piyush extends Developer {
     );
 }
 ```
+
+<h2 align="center">🚀 Some Tools I Have Used and Learned</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,react,html,css,bootstrap,tailwind,nodejs,express,mongodb,mysql,docker,kubernetes,aws,azure,git,github,linux,figma,spring,numpy,pandas,sklearn,tensorflow,opencv,jupyter&theme=dark&perline=12" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Build+%E2%86%92+Learn+%E2%86%92+Improve+%E2%86%92+Repeat...;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Data+%E2%86%92+Models+%E2%86%92+Insights+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%9A%80;Turning+Ideas+Into+Projects+%F0%9F%92%BB&center=true&width=600&height=50&size=20&color=36BCF7&background=00000000&duration=3000&pause=1000" />
+</p>
