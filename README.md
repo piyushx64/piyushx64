@@ -63,3 +63,13 @@ class Piyush extends Developer {
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Build+%E2%86%92+Learn+%E2%86%92+Improve+%E2%86%92+Repeat...;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Data+%E2%86%92+Models+%E2%86%92+Insights+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%9A%80;Turning+Ideas+Into+Projects+%F0%9F%92%BB&center=true&width=600&height=50&size=20&color=36BCF7&background=00000000&duration=3000&pause=1000" />
 </p>
+
+<h2 align="center">🚀 Fun Fact</h2>
+
+<p align="center">
+  <b>I don’t always test my code... but when I do, it’s in production.</b>
+</p>
+
+<p align="center">
+  <img src="./fun-fact.gif" width="500" alt="Fun Fact">
+</p>
